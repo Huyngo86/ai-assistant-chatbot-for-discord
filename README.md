@@ -1,4 +1,4 @@
-# AIO Assistant for Discord
+# AI Assistant Chatbot for Discord
 
 A Python Discord assistant for course meetings and learning. It supports meeting and lecture summaries, context-aware questions, and references to slides and transcripts.
 
