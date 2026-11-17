@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Environment
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Temp
+*.log
+/tmp/
+
+# Guild config (contains API keys)
+data/
+
+# Local scripts (not needed in production)
+scripts/
+
+# Test files
+*.mp4
+gemini_*.md
+
+cookies.txt
