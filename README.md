@@ -35,5 +35,5 @@ python src/main.py
 
 ## Security and reuse
 
-The supplied archive contains a development script, `test_fireflies.py`, with a hard-coded credential-like value. Remove that value before publishing; if it was a real credential, rotate it. The archive also includes a course slide PDF, which is not part of the bot source and should only be redistributed if you have permission. No license file was present in the archive; add one if you want others to reuse the project.
+The original archive included a development script, `test_fireflies.py`, containing a credential-like value, and a course slide PDF. Neither file is included in this public repository. If the credential was real, rotate it. No license file was present in the archive; add one if you want others to reuse the project.
 
